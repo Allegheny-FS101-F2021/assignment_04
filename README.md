@@ -1,15 +1,67 @@
-### FS101_F2021
+### FS101_F2021, Assignment 5
+
+### Table of contents
+
+* [Instruction](#instructions)
+* [Due Dates](#due_dates)
+* [Consulting](#consulting)
+* [Thesis Question](#Thesis)
+* [Essay Outline](#outline)
 
 
-### Title:
-Assignment 4: Make a Black Mirror Episode, Respond to questions of an ethical nature.
 
-### Due
-By Friday's class: 30 Sept 2021
+### Title
+A short writing assignment based on the **Black-Mirror** activity and the **Coded-Bias** documentary.
 
-## Introduction
+### Instructions
+This assignment requires you to write a short essay of about 600 to 800 words (about a full page of text). You are to write your essay in the File `writing/reflection.md` of your work repository. Your writing should expand on some of the issues that we covered from the **Black-Mirror** activity and be informed by what you learned by watching the the **Coded-Bias** documentary. Please use the provided outline (below) to help organize your writing.
 
-This assignment requires you to complete the `writing/reflection.md` file and to create a poster (slide) of the episode. 
+
+### Due Dates
+ - The **essay** is due on Wednesday, 13th October. On Wednesday, we will have a peer-editing activity where you will exchange essays with a colleague to read and discuss the flow and the text.
+
+ - The **entire project** is to be submitted by Friday's class: 15th October 2021
+
+
+### Consulting
+Please feel free to consult with the connected writing Consultant for our course: **Kelsey Anderson**. You can schedule a visit with Kelsey using [https://docs.google.com/document/d/1SKbzTEe2S8udQ68VnJXI_MonRcYbYjvjBFoN5RFzeT8/edit?usp=sharing](https://docs.google.com/document/d/1SKbzTEe2S8udQ68VnJXI_MonRcYbYjvjBFoN5RFzeT8/edit?usp=sharing) for office hours. This link is also available on the course website.
+
+
+### Thesis
+
+ Discuss a technology or use of data (in light of the Black-Mirror exercises and the Coded-Bias documentary) that could be argued to create more problems than it was designed to solve.
+
+
+### Outline
+
+Please organize your essay according to the following outline to help you in your writing.
+
+
+- **Introduction and Motivation**
+ - What is the technology (or use of data) being discussed in this essay?
+ - What does this technology do? What are some of its main uses and applications?
+ - What kinds of solutions was this technology designed to address?
+ - What kinds of dilemmas and problems are actually created?
+ - Who uses the technology to cause these dilemmas and problems?
+
+- **Body**
+ - In meaningful language, describe the proposed solutions of the technology (what _should_ the technology be doing?)
+ - In meaningful language, describe the actual solutions of the technology (what _is_ the technology being used to do?)
+ - What are the major problems that are being created by this technology?
+ - Where is the damage?
+   - Is _trust_ being eroded somewhere?
+   - Do the environmental conditions _deteriorate_
+   - Are human or animal lives being _impacted_? etc.
+ - What proof (published academic articles, books, expert opinions and talks on the subject, data analysis projects, etc) is there to document that this damage is actually happening as a result of the misuse of technology?
+
+- **Conclusions**   
+ - What can be done to understand the problems for which the technology was designed to resolve?
+ - What does one suppose will happen if the technology is allowed to be used as it is now? Will the problems subside or could they still escalate and cause more damage?
+ - How could this problem be resolved? How do you know this resolution could happen?
+
+
+---
+
 
 
 ## GitHub and Markdown

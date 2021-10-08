@@ -1,35 +1,27 @@
-### FS101_F2021
-Date: 29 September 2021
-Due: (Next Class) 30 September
+### FS101_F2021, Assignment 5
 
-Group Name: `TODO`
-Members in the group: `TODO`
+### Due
+By Friday's class: 15th October 2021
+
+Please add your work here and remove the `todo` tag below when you start working. Please remember that this is an essay and that your written work is to take a narrative voice to discuss your thoughts that are inspired by the cues on each line of the outline.
+
+`TODO`
 
 
-### Black Mirror Synopsis Questions
 
- - Brainstorm a _near future_ technology based on a topic of your choice. It should be close enough that it seems like a plausible future. What is the technology and how does it relate to daily living?
 
- `TODO`
 
- - What are the potential social implications and/or ethical issues and/or regulatory challenges with this technology?
 
- `TODO`
 
- - What do you think might be a cautionary tale related to this technology? How could this technology be exploited to impact others, environmental conditions or animal lives?
 
- `TODO`
 
- - Describe the worst that can happen if this tale became a reality?
+---
+## Peer editing
+To be completed on Wednesday.
 
- `TODO`
+ - Who is my reader (you will have to give this person access to your repository to read your work): `TODO`
 
- - What is a Black Mirror-type story-line this tale?
+ - What major ideas did my reader suggest to me (You can copy and paste some of the text from your Issue Tracker in GitHub): `TOOD`
 
- `TODO`
-
- - Now, create a poster-slide for the episode you described above and include its Google Docs link or presentation file with this deliverable. (Please be sure to put your names on the poster!)
-
- `TODO`
 
 (Did you remember to add your name(s) to the top of this document?)
